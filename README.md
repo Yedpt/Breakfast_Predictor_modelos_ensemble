@@ -1,4 +1,4 @@
-# 🍽️ Breakfast Predictor (con cálculo de calorías) 
+# 🍽️ Breakfast Predictor
 
 > Proyecto de clasificación de alimentos y cálculo de calorías utilizando técnicas de Machine Learning y Deep Learning
 
